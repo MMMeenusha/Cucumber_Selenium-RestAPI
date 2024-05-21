@@ -1,0 +1,471 @@
+# Created at 2024-01-29T15:05:42.791
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2024-01-29T15:05:43.621
+Unexpected IOException with stream: Jan 29, 2024 3:05:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:43.623
+Unexpected IOException with stream: Jan 29, 2024 3:05:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:43.627
+Unexpected IOException with stream: Jan 29, 2024 3:05:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:47.855
+Unexpected IOException with stream: Read From Excel Data - PASSED
+
+
+# Created at 2024-01-29T15:05:48.265
+Unexpected IOException with stream: {Excel_PassedTC=1, Excel_TotalTC=1}
+
+# Created at 2024-01-29T15:05:48.265
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:48.273
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "Read From Excel Data", "Title of your feature") finished in 8354 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:48.273
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:48.288
+Unexpected IOException: 5,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),cucumber,null,null
+
+
+# Created at 2024-01-29T15:05:48.290
+Unexpected IOException with stream: [TestNG] INVOKING: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "getTheTotalListOfItems", "Title of your feature")
+
+
+# Created at 2024-01-29T15:05:49.699
+Unexpected IOException with stream: ItemToAdd - [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Onesie]
+
+
+# Created at 2024-01-29T15:05:49.702
+Unexpected IOException with stream: ItemToAdd - [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Onesie]
+
+
+# Created at 2024-01-29T15:05:50.050
+Unexpected IOException with stream: Jan 29, 2024 3:05:50 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:50.076
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:50.121
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:50.502
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:50.532
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:50.832
+Unexpected IOException with stream: 3
+
+
+# Created at 2024-01-29T15:05:50.999
+Unexpected IOException with stream: [[1, Sauce Labs Backpack, Yes], [3, Sauce Labs Bike Light, Yes], [4, Sauce Labs Onesie, Yes]]
+
+# Created at 2024-01-29T15:05:51.000
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:51.057
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:51.104
+Unexpected IOException with stream: Login Application by Reading Excel Data - PASSED
+
+
+# Created at 2024-01-29T15:05:51.128
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:51.613
+Unexpected IOException with stream: {Excel_PassedTC=2, Excel_TotalTC=2}
+
+# Created at 2024-01-29T15:05:51.614
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:51.616
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "Login Application by Reading Excel Data", "Title of your feature") finished in 11698 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:51.617
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:51.620
+Unexpected IOException: 5,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),cucumber,null,null
+
+
+# Created at 2024-01-29T15:05:51.622
+Unexpected IOException with stream: [TestNG] INVOKING: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "getTheNameOfItems", "Title of your feature")
+
+
+# Created at 2024-01-29T15:05:51.961
+Unexpected IOException with stream: Login Application by Reading Excel Data after writting data - PASSED
+
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException with stream: {Excel_PassedTC=3, Excel_TotalTC=3}
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "Login Application by Reading Excel Data after writting data", "Title of your feature") finished in 12324 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException: 5,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),cucumber,null,null
+
+
+# Created at 2024-01-29T15:05:52.241
+Unexpected IOException with stream: [TestNG] INVOKING: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "AddTheProducts", "To Add and checkout the product")
+
+
+# Created at 2024-01-29T15:05:53.238
+Unexpected IOException with stream: Jan 29, 2024 3:05:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:53.272
+Unexpected IOException with stream: getTheTotalListOfItems - PASSED
+
+
+# Created at 2024-01-29T15:05:53.679
+Unexpected IOException with stream: 3
+
+
+# Created at 2024-01-29T15:05:53.783
+Unexpected IOException with stream: [[1, Sauce Labs Backpack, Yes], [3, Sauce Labs Bike Light, Yes], [4, Sauce Labs Onesie, Yes]]
+
+# Created at 2024-01-29T15:05:53.784
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:53.812
+Unexpected IOException with stream: {Excel_PassedTC=3, Excel_TotalTC=3}
+
+# Created at 2024-01-29T15:05:53.812
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:53.934
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "getTheTotalListOfItems", "Title of your feature") finished in 5642 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:53.934
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:53.934
+Unexpected IOException: 5,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),cucumber,null,null
+
+
+# Created at 2024-01-29T15:05:53.934
+Unexpected IOException with stream: [TestNG] INVOKING: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "AddTheProductsAndCheckout", "To Add and checkout the product")
+
+
+# Created at 2024-01-29T15:05:54.081
+Unexpected IOException with stream: Jan 29, 2024 3:05:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:54.962
+Unexpected IOException with stream: 3
+
+
+# Created at 2024-01-29T15:05:55.044
+Unexpected IOException with stream: [[1, Sauce Labs Backpack, Yes], [3, Sauce Labs Bike Light, Yes], [4, Sauce Labs Onesie, Yes]]
+
+# Created at 2024-01-29T15:05:55.046
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:56.006
+Unexpected IOException with stream: Jan 29, 2024 3:05:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
+
+
+# Created at 2024-01-29T15:05:56.766
+Unexpected IOException with stream: 3
+
+
+# Created at 2024-01-29T15:05:56.841
+Unexpected IOException with stream: [[1, Sauce Labs Backpack, Yes], [3, Sauce Labs Bike Light, Yes], [4, Sauce Labs Onesie, Yes]]
+
+# Created at 2024-01-29T15:05:56.852
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:57.411
+Unexpected IOException with stream: getTheNameOfItems - PASSED
+
+
+# Created at 2024-01-29T15:05:57.662
+Unexpected IOException with stream: {ProductCheckout_PassedTC=1, Excel_PassedTC=3, Excel_TotalTC=3, ProductCheckout_TotalTC=1}
+
+# Created at 2024-01-29T15:05:57.663
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:57.673
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "getTheNameOfItems", "Title of your feature") finished in 6052 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:57.674
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:57.707
+Unexpected IOException with stream: ItemToAdd - [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Onesie]
+
+
+# Created at 2024-01-29T15:05:57.974
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:58.208
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:58.421
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:58.422
+Unexpected IOException with stream: AddTheProducts - PASSED
+
+
+# Created at 2024-01-29T15:05:58.588
+Unexpected IOException with stream: {ProductCheckout_PassedTC=2, Excel_PassedTC=3, Excel_TotalTC=3, ProductCheckout_TotalTC=2}
+
+# Created at 2024-01-29T15:05:58.589
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:58.665
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "AddTheProducts", "To Add and checkout the product") finished in 6423 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:58.666
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:58.913
+Unexpected IOException with stream: ItemToAdd - [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Onesie]
+
+
+# Created at 2024-01-29T15:05:59.141
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:59.297
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:59.461
+Unexpected IOException with stream:  Item added and value showing for the product now is REMOVE
+
+
+# Created at 2024-01-29T15:05:59.818
+Unexpected IOException with stream: AddTheProductsAndCheckout - PASSED
+
+
+# Created at 2024-01-29T15:05:59.978
+Unexpected IOException with stream: {ProductCheckout_PassedTC=2, ProductVerification_TotalTC=1, ProductVerification_PassedTC=1, Excel_PassedTC=3, Excel_TotalTC=3, ProductCheckout_TotalTC=2}
+
+# Created at 2024-01-29T15:05:59.979
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:05:59.986
+Unexpected IOException with stream: [TestNG] PASSED: "Test" - io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)(value(s): "AddTheProductsAndCheckout", "To Add and checkout the product") finished in 6051 ms
+[TestNG]         Runs Cucumber Scenarios
+
+
+# Created at 2024-01-29T15:05:59.987
+Unexpected IOException: 6,1,TestRunner.TestRunner,runScenario(TestRunner.TestRunner),null,null,null
+
+
+# Created at 2024-01-29T15:05:59.991
+Unexpected IOException with stream: [TestNG] INVOKING CONFIGURATION: "Test" - @AfterClass io.cucumber.testng.AbstractTestNGCucumberTests.tearDownClass()
+
+
+# Created at 2024-01-29T15:05:59.993
+Unexpected IOException with stream: 29/01/2024 15:05:59
+
+
+# Created at 2024-01-29T15:05:59.994
+Unexpected IOException with stream: AfterAll
+
+
+# Created at 2024-01-29T15:05:59.995
+Unexpected IOException with stream: className - Excel
+
+
+# Created at 2024-01-29T15:05:59.996
+Unexpected IOException with stream: className - ProductCheckout
+
+
+# Created at 2024-01-29T15:05:59.997
+Unexpected IOException with stream: className - ProductVerification
+
+
+# Created at 2024-01-29T15:05:59.999
+Unexpected IOException with stream: 0 days, 0 hours, 0 minutes, 20 seconds.
+
+# Created at 2024-01-29T15:06:00.003
+Unexpected IOException with stream: [TestNG] PASSED CONFIGURATION: "Test" - @AfterClass io.cucumber.testng.AbstractTestNGCucumberTests.tearDownClass() finished in 12 ms
+
+
+# Created at 2024-01-29T15:06:00.004
+Unexpected IOException with stream: ===== Invoked methods
+
+
+# Created at 2024-01-29T15:06:00.007
+Unexpected IOException with stream:     
+
+# Created at 2024-01-29T15:06:00.009
+Unexpected IOException with stream: AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.TestRunner@4cc451f2]
+
+
+# Created at 2024-01-29T15:06:00.010
+Unexpected IOException with stream: =====
+
+
+# Created at 2024-01-29T15:06:00.013
+Unexpected IOException with stream: [TestNG] 
+[TestNG] ===============================================
+[TestNG]     Test
+[TestNG]     Tests run: 1, Failures: 0, Skips: []
+[TestNG] ===============================================
+
+
+# Created at 2024-01-29T15:06:00.014
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("AddTheProducts", "To Add and checkout the product")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.015
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.016
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("Login Application by Reading Excel Data", "Title of your feature")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.017
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.017
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("Read From Excel Data", "Title of your feature")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.018
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.019
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("AddTheProductsAndCheckout", "To Add and checkout the product")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.022
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.023
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("Login Application by Reading Excel Data after writting data", "Title of your feature")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.024
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.025
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("getTheTotalListOfItems", "Title of your feature")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.026
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.027
+Unexpected IOException with stream: PASSED: io.cucumber.testng.AbstractTestNGCucumberTests.runScenario("getTheNameOfItems", "Title of your feature")
+        Runs Cucumber Scenarios
+
+# Created at 2024-01-29T15:06:00.028
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.031
+Unexpected IOException with stream: 
+===============================================
+    Test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+# Created at 2024-01-29T15:06:00.031
+Unexpected IOException with stream: 
+
+
+# Created at 2024-01-29T15:06:00.075
+Unexpected IOException with stream: [TestNG] INVOKING CONFIGURATION: "UNKNOWN" - @AfterSuite TestRunner.TestRunner.afterAll()
+
+
+# Created at 2024-01-29T15:06:00.076
+Unexpected IOException with stream: AfterSuite
+
+
+# Created at 2024-01-29T15:06:00.078
+Unexpected IOException with stream: [TestNG] PASSED CONFIGURATION: "UNKNOWN" - @AfterSuite TestRunner.TestRunner.afterAll() finished in 3 ms
+
+
+# Created at 2024-01-29T15:06:00.079
+Unexpected IOException with stream: 
+===============================================
+Suite
+Total tests run: 7, Passes: 7, Failures: 0, Skips: 0
+===============================================
+
+
+
+# Created at 2024-01-29T15:06:00.212
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

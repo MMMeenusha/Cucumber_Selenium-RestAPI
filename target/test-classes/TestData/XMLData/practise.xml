@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<configuration>
+	<TCName name="AddTheProduct">
+		<TotalItems>3</TotalItems>
+		<Items>Sauce Labs Backpack,Sauce Labs Bike Light,Sauce Labs Onesie</Items>
+		<Query>Select * from products where ItemsToBeAdded = 'Yes'</Query>
+	</TCName>
+	
+	<TCName name="getDatafromExcel">
+		<TotalItems>3</TotalItems>
+		<Items>Sauce Labs Backpack,Sauce Labs Bike Light,Sauce Labs Onesie</Items>
+	</TCName>
+	
+	<TCName name="checkout">
+		<firstname>Meenusha</firstname>
+		<lastname>M M</lastname>
+		<zipcode>600021</zipcode>
+	</TCName>
+
+	<TCName name="APIToGetPlaceID">
+		<setAccuracy>50</setAccuracy>
+		<setName>Frontline house</setName>
+		<setPhone_number>(+91) 983 893 3937</setPhone_number>
+		<setAddress>29, side layout, cohen 09</setAddress>
+		<setWebsite>http://google.com</setWebsite>
+		<setLanguage>French-IN</setLanguage>
+		<setTypes>shoe park,shop</setTypes>
+		<setLat>-38.383494</setLat>
+		<setLng>33.427362</setLng>
+	</TCName>
+</configuration>
